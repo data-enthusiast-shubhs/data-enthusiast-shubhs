@@ -2,7 +2,9 @@
 - 👀 I’m interested in ... Coding and communicating with others
 - 🌱 I’m currently learning ...Data Science from AlmaBetter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...shubhsoli114@gmail.com
+- 📫 How to reach me ...shubhsoli114@gmail.com / www.linkedin.com/in/shubham-oli-12911so
+Find a repository…
+
 
 <!---
 data-enthusiast-shubhs/data-enthusiast-shubhs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
