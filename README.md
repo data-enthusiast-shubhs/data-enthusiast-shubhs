@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Shubham Oli</h1>
+<h1 align="center">Hi 👋, I'm Shubham Oli</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif">
